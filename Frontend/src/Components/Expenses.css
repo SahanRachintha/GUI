@@ -1,0 +1,90 @@
+.expenses {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.expenses-chart {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.expenses-chart h3 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.expenses form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.expenses input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.add-btn {
+  align-self: flex-start;
+  padding: 8px 16px;
+  background-color: #FF8042;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.add-btn:hover {
+  background-color: #E66000;
+}
+
+.expenses table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.expenses th, .expenses td {
+  text-align: left;
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.expenses th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  .expenses-chart {
+    padding: 10px;
+  }
+
+  .expenses form {
+    gap: 10px;
+  }
+
+  .expenses input {
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  .expenses th, .expenses td {
+    padding: 8px;
+    font-size: 14px;
+  }
+}
+

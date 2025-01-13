@@ -1,0 +1,62 @@
+.user-profile {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile-content {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.user-info {
+  text-align: center;
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.edit-btn, .save-btn, .cancel-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+  margin-top: 10px;
+}
+
+.edit-btn:hover, .save-btn:hover {
+  background-color: #2980b9;
+}
+
+.cancel-btn {
+  background-color: #db6c12;
+  margin-left: 10px;
+}
+
+.cancel-btn:hover {
+  background-color: #7f8c8d;
+}
+
