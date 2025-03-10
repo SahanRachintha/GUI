@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\incomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\incomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\expenseswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\expenseswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\financedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\financedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\expenseswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\expenseswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\incomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\incomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|e:\\web development\\dekstop app\\personal_finance_tracker\\personal_finance_tracker\\personal_finance_tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93A01130-7EB3-487A-ABD5-1F46B76FE786}|Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj|solutionrelative:personal_finance_tracker\\personal_finance_tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpensesWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ExpensesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\ExpensesWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ExpensesWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\ExpensesWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:29:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncomeWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\IncomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\IncomeWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\IncomeWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\IncomeWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowLEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:22:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\ProfileWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ProfileWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\ProfileWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:22:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\SignUpWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\SignUpWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:02:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\MainWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\MainWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T18:39:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:39:29.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProfileWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\EditProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\EditProfileWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\EditProfileWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\EditProfileWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:25:13.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\DashboardWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\DashboardWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\DashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T18:04:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\DashboardWindow.xaml.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\DashboardWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:09:09.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinanceData.cs",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\FinanceData.cs",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\FinanceData.cs",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\FinanceData.cs",
+              "RelativeToolTip": "Personal_Finance_Tracker\\FinanceData.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:28:44.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProfileWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\EditProfileWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\EditProfileWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\EditProfileWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\EditProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T15:23:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUpWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\SignUpWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\SignUpWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\SignUpWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\SignUpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T19:00:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ProfileWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\ProfileWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ProfileWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\ProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T15:01:03.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpensesWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ExpensesWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\ExpensesWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\ExpensesWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\ExpensesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T04:24:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IncomeWindow.xaml",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\IncomeWindow.xaml",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\IncomeWindow.xaml",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\IncomeWindow.xaml",
+              "RelativeToolTip": "Personal_Finance_Tracker\\IncomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T04:18:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Personal_Finance_Tracker.csproj",
+              "DocumentMoniker": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj",
+              "RelativeDocumentMoniker": "Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj",
+              "ToolTip": "E:\\web development\\Dekstop App\\Personal_Finance_Tracker\\Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj",
+              "RelativeToolTip": "Personal_Finance_Tracker\\Personal_Finance_Tracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T11:04:31.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

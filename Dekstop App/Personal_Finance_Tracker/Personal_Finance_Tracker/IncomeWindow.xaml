@@ -1,0 +1,58 @@
+﻿<Window x:Class="Personal_Finance_Tracker.IncomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Personal_Finance_Tracker"
+        mc:Ignorable="d"
+        Title="IncomeWindow" Height="550" Width="800">
+    <Grid Background="#F5F5F5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+       
+        <Menu Background="#2c3e50" Foreground="White" Grid.Row="0">
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <Image Source="E:\web development\Dekstop App\Personal_Finance_Tracker\Personal_Finance_Tracker\Images\logo.png" Width="20" Height="20" Margin="10"/>
+                <TextBlock Text="Personal Finance Tracker" Foreground="White" VerticalAlignment="Center"/>
+                <MenuItem Header="Dashboard" Click="Dashboard_Click"/>
+                <MenuItem Header="Income" Click="Income_Click"/>
+                <MenuItem Header="Expenses" Click="Expenses_Click"/>
+                <MenuItem Header="Profile" Click="Profile_Click"/>
+                <MenuItem Header="Logout" Click="Logout_Click" Height="28" Background="Red" Width="120"/>
+            </StackPanel>
+        </Menu>
+
+        <StackPanel Grid.Row="1" Width="796" Margin="2,10,2,-1">
+            <TextBlock Text="Income" FontSize="24" FontWeight="Bold" Foreground="Black" Width="294" Margin="10"/>
+
+                <TextBlock Name="IncomeSourcePlaceholder" Text="Enter source" Foreground="Gray" HorizontalAlignment="Left" Margin="250,0,0,0" IsHitTestVisible="False" Width="78"/>
+                <TextBox Name="IncomeSourceTextBox" Width="300" Height="30" Margin="10" />
+            
+
+            
+                <TextBlock Name="IncomeAmountPlaceholder" Text="Enter amount" Foreground="Gray" HorizontalAlignment="Left" Margin="250,0,0,0" IsHitTestVisible="False"/>
+            <TextBox Name="IncomeAmountTextBox" Width="300" Height="30" Margin="10" />
+
+
+            <DatePicker Name="IncomeDatePicker" Width="300" Height="30" Margin="10"/>
+
+            <Button Content="Add Income" Click="AddIncome_Click" Background="Orange" Foreground="White" Width="100" Height="30" Margin="10"/>
+
+            <ListView Name="IncomeList" Width="400" Height="103" Margin="20">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Date" Width="100" DisplayMemberBinding="{Binding Date}"/>
+                        <GridViewColumn Header="Source" Width="150" DisplayMemberBinding="{Binding Source}"/>
+                        <GridViewColumn Header="Amount" Width="100" DisplayMemberBinding="{Binding Amount}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button Content="Delete Income" Click="DeleteIncome_Click" Margin="10,5" Background="Red" Foreground="White" Height="24" Width="100"/>
+        </StackPanel>
+    </Grid>
+
+
+</Window>
