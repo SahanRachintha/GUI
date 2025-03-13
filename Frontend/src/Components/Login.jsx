@@ -7,13 +7,31 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const navigate = useNavigate();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
  
-    console.log('Login submitted', { email, password });
-   
-    navigate('/dashboard');
-  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    try {
+        const response = await fetch('http://localhost:5000/api/auth/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, password }),
+        });
+
+        const data = await response.json();
+
+        if (response.ok) {
+            console.log('Login successful', data);
+            navigate('/dashboard');
+        } else {
+            console.error('Login failed:', data.error);
+        }
+    } catch (error) {
+        console.error('Error logging in:', error);
+    }
+};
+
 
   return (
     <div className="auth-container">

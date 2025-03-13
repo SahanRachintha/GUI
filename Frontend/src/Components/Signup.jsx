@@ -10,15 +10,31 @@ const Signup = () => {
   const navigate = useNavigate();
   const { updateUserProfile } = useFinance();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    
-    console.log('Signup submitted', { name, email, password });
-    
-    updateUserProfile({ name, email, password });
   
-    navigate('/dashboard');
-  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    try {
+        const response = await fetch('http://localhost:5000/api/auth/signup', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name, email, password }),
+        });
+
+        const data = await response.json();
+
+        if (response.ok) {
+            console.log('Signup successful', data);
+            navigate('/dashboard');
+        } else {
+            console.error('Signup failed:', data.error);
+        }
+    } catch (error) {
+        console.error('Error signing up:', error);
+    }
+};
+
 
   return (
     <div className="auth-container">

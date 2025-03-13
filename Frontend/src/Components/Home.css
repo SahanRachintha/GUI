@@ -1,6 +1,6 @@
 .home {
   margin: 0 auto;
-  background-image: url('E:\web development\Expense Tracker\Frontend\public\home3.jpg'); 
+  background-image: url('../assets/home3.jpg');
   background-size: cover; 
   background-repeat: no-repeat; 
   background-position: center; 

@@ -3,7 +3,9 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #dcdcdc, #a9a9a9);
+  background-image: url('../assets/login1.jpg');
+  background-size: cover;
+  height: 100vh;
   padding: 20px;
   font-family: 'Arial', sans-serif;
 }
